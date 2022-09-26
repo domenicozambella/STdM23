@@ -1,0 +1,7 @@
+numpy
+scipy
+bokeh
+ipywidgets
+pandas
+holoviews
+statsmodels
