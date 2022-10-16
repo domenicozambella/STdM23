@@ -5,3 +5,4 @@ ipywidgets
 pandas
 holoviews
 statsmodels
+jupyter_bokeh
